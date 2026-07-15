@@ -35,9 +35,9 @@
     "prepublishOnly": "npm run build",
     "test-unit": "vitest run"
   },
-  "engines": {
-  "node": ">=18.0.0"
-  },
+ "engines": {
+  "node": "18.x"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vitejs/vite-plugin-react.git",
